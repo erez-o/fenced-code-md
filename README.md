@@ -8,7 +8,7 @@ Paragraph:
     auto id = 5;
     ```
   
-  Some paragraph
+    Some paragraph
   
 * Second element
   
@@ -16,7 +16,7 @@ Paragraph:
     auto name = type_info<my_type>::name();
     ```
   
-  Another par:
+    Another par:
   
     ```cpp
     struct my_type { /* ... */ };
