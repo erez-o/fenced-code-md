@@ -4,22 +4,22 @@ Paragraph:
 
 * First element in list:
   
-  ```cpp
-  auto id = 5;
-  ```
+    ```cpp
+    auto id = 5;
+    ```
   
   Some paragraph
   
 * Second element
   
-  ```cpp
-  auto name = type_info<my_type>::name();
-  ```
+    ```cpp
+    auto name = type_info<my_type>::name();
+    ```
   
   Another par:
   
-  ```cpp
-  struct my_type { /* ... */ };
-  ```
+    ```cpp
+    struct my_type { /* ... */ };
+    ```
 
 New paragraph
